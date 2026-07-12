@@ -1,0 +1,44 @@
+# Cadence Virtuoso simulation & runtime files
+*.log
+*.raw
+*.ahdlSimDB
+*.simrc
+*.dsn
+*.err
+*.tmp
+INCA_libs/
+AWS.env
+.cdsenv
+.cdslck
+cds.lib
+.cdsinit
+*.oceanScript.log
+*.errors
+*.history
+hnl.log
+svtb.log
+
+# Simvision / waveform databases
+.simvision/
+*.trn
+*.tr0
+waves/
+
+# Cadence lock/cache files
+*.cdslck
+*.dsn.lock
+
+# Netlist / temp build files
+netlist/
+psf/
+*.psf
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Keep PDK and library cellview files OUT of git
+# (do not upload actual .oa cellviews / proprietary libraries)
+*.oa
