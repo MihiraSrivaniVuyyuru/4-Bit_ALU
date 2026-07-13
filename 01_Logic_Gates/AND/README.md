@@ -54,7 +54,7 @@ The 1-bit AND gate performs the fundamental logical AND operation.
 The 4-bit AND gate performs four AND operations simultaneously on two 4-bit input vectors.
 
 \[
-Y = A \land B
+Y = A and B
 \]
 
 where
