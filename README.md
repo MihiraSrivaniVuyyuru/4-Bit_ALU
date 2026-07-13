@@ -65,6 +65,8 @@ This repository is licensed under the [MIT License](LICENSE).
 ## Author
 
 **Vuyyuru Mihira Srivani**
-B.Tech ECE (VLSI Specialization), VIT-AP University
 
-Feel free to explore, raise issues, or reach out with questions about the design.
+Research Intern  
+VIT-AP University
+
+**Technology:** Cadence Virtuoso • 45 nm CMOS • Full Custom VLSI Design
