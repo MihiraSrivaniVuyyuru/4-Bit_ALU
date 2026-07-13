@@ -10,7 +10,7 @@ These implementations showcase modular digital design principles, hierarchical c
 
 ## Folder Structure
 
-```
+```text
 Adder/
 ├── Half_Adder/
 │   ├── Schematic.png
@@ -18,23 +18,24 @@ Adder/
 │   ├── Test.png
 │   └── Waveform.png
 │
-├── 1_Bit_Full_Adder/
+├── 1Bit/
 │   ├── Schematic.png
 │   ├── Symbol.png
 │   ├── Test.png
 │   └── Waveform.png
 │
-├── 4_Bit_Adder/
-│   ├── Schematic.png
-│   ├── Symbol.png
-│   ├── Test.png
-│   └── Waveform.png
-│
-└── 4_Bit_Adder_With_Overflow/
-    ├── Schematic.png
-    ├── Symbol.png
-    ├── Test.png
-    └── Waveform.png
+└── 4Bit/
+    ├── Adder/
+    │   ├── Schematic.png
+    │   ├── Symbol.png
+    │   ├── Test.png
+    │   └── Waveform.png
+    │
+    └── Adder_With_Overflow/
+        ├── Schematic.png
+        ├── Symbol.png
+        ├── Test.png
+        └── Waveform.png
 ```
 
 ---
