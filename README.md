@@ -66,7 +66,10 @@ This repository is licensed under the [MIT License](LICENSE).
 
 **Vuyyuru Mihira Srivani**
 
-Research Intern  
+B.Tech in Electronics and Communication Engineering (VLSI)  
 VIT-AP University
 
-**Technology:** Cadence Virtuoso • 45 nm CMOS • Full Custom VLSI Design
+- GitHub: https://github.com/MihiraSrivaniVuyyuru
+- LinkedIn: https://www.linkedin.com/in/vuyyurumihirasrivani
+
+**Research Interests:** VLSI Design, CMOS Digital Circuit Design, Low-Power VLSI, ASIC Design
