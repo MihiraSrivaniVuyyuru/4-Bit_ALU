@@ -97,7 +97,7 @@ This implementation demonstrates efficient parallel processing of multiple input
 - **EDA Tool:** Cadence Virtuoso
 - **Technology Node:** 45 nm CMOS
 - **Design Style:** Full-Custom CMOS
-- **Simulation:** Analog/Transient Analysis
+- **Simulation:** Transient Analysis
 
 ---
 
