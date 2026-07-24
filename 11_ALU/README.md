@@ -69,6 +69,31 @@ The operation performed by the ALU is determined by the applied **4-bit opcode**
 
 ---
 
+
+## Performance Analysis
+
+Post-layout/schematic-level performance metrics were extracted through simulation to evaluate the power and timing characteristics of the 4-Bit ALU.
+
+### Power Analysis
+
+| Parameter | Value |
+|-----------|-------|
+| **Average Power (P_avg)** | 1.3559e-04 W (135.59 µW) |
+| **Static Power (P_static)** | 2.0579e-10 W (0.21 nW) |
+| **Leakage Power (P_leakage)** | 2.0579e-10 W (0.21 nW) |
+| **Dynamic Power (P_dynamic)** | 1.3559e-04 W (135.59 µW) |
+
+### Timing Analysis
+
+| Parameter | Value |
+|-----------|-------|
+| **Average Propagation Delay** | 3.6565e-10 s (365.65 ps) |
+| **Worst-Case (Max) Delay** | 1.7745e-09 s (1774.54 ps) |
+
+**Observation:** Dynamic power dominates total power consumption, indicating the design is switching-activity driven with negligible static/leakage contribution — consistent with expected behavior in 45 nm CMOS combinational logic.
+
+---
+
 ## Design Flow
 
 1. Designed transistor-level CMOS implementations of individual logic gates.
